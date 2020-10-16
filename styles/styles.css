@@ -6,7 +6,7 @@ body {
 }
 
 .wrapper {
-  background: hsl(229, 57%, 11%) url("../images/bg-desktop.png") right bottom
+  background: hsl(229, 57%, 11%) url("images/bg-desktop.png") right bottom
     no-repeat;
   background-size: 100% 50%;
   font-family: "Raleway", sans-serif;
@@ -206,7 +206,7 @@ body {
 @media only screen and (max-width: 930px) {
   
   .wrapper {
-    background: hsl(229, 57%, 11%) url("../images/bg-mobile.png") no-repeat;
+    background: hsl(229, 57%, 11%) url("images/bg-mobile.png") no-repeat;
     background-size: cover;
   }
 
